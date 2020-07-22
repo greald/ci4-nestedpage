@@ -23,7 +23,7 @@ class Nestle implements FilterInterface
 	    $CC = array_shift($contentUriArr);
 	    if(isset($CC))
 	    {
-		    $contentContrName = config('Nestle')->contentcontrollerNS . ucfirst($CC);//$contentUriArr[0]); // "\\App\\Controllers\\".ucfirst($contentUriArr[0]);
+		    $contentContrName = config('Nestle')->contentcontrollerNS . ucfirst($CC);
 		}
 					
 		// validate method
@@ -38,15 +38,9 @@ class Nestle implements FilterInterface
 			$CM = config('Nestle')->defaultContent[1];
 		}
 		
-	    // arrange parameters
-	    $contentParameterArr = $contentUriArr;
-/*		
-		echo "\n<br/>".__METHOD__.__LINE__.print_r([
-			"contentcontroller" => $contentContrName,
-			"contentmethod" => $CM,//$contentUriArr[1],
-			"parameterArray" => $contentParameterArr
-		],TRUE);
-*/		
+	    	// arrange parameters
+	    	$contentParameterArr = $contentUriArr;
+		
 		return [
 			"contentcontroller" => $contentContrName,
 			"contentmethod" => $CM,
