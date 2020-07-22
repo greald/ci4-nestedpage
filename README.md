@@ -4,19 +4,13 @@ codeigniter4 nested page build up
 ### Stop worrying about page set up
 by [Greald Henstra](https://ghvernuft.nl).
 
-Simple and lightweight authentication for your CodeIgniter apps.
-
-Ion Auth 2 dropped any backwards compatibility and made things more
-awesome.
-
-Ion Auth 3, while not dropping as much backwards compatibility, made things
-even more awesome!
+Simple and lightweight
 
 ## Server requirements
 nestedpage needs **CodeIgniter 4** and **PHP 7**.
 
 ## Documentation
-Documentation is located at http://benedmunds.com/ion_auth/
+Documentation is located, well, here
 
 ## Upgrading
 See [UPGRADING.md](UPGRADING.md) file.
