@@ -10,16 +10,16 @@ Simple and lightweight
 nestedpage needs **CodeIgniter 4** and **PHP 7**.
 
 ## Documentation
-Documentation is located, well, here
-
-## Upgrading
-See [UPGRADING.md](UPGRADING.md) file.
+Documentation is located, well, here.
 
 ## Installation
-See [INSTALLING.md](INSTALLING.md) file.
+Copy / paste this package correspondingly into the folder structure in your application or into its third_party folder
+In app\Config\Nestle.php ...
+in app\Config\Routes.php ...
+in app\Language\en\Page.php ...
+in app\Views\nest make up your html-blocks at will
 
 ## Usage
-In the package y
 
 ### Important
 It is highly recommended 
