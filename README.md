@@ -1,2 +1,50 @@
 # ci4-nestedpage
 codeigniter4 nested page build up
+# Nested Page
+### Stop worrying about page set up
+by [Greald Henstra](https://ghvernuft.nl).
+
+Simple and lightweight authentication for your CodeIgniter apps.
+
+Ion Auth 2 dropped any backwards compatibility and made things more
+awesome.
+
+Ion Auth 3, while not dropping as much backwards compatibility, made things
+even more awesome!
+
+## Server requirements
+nestedpage needs **CodeIgniter 4** and **PHP 7**.
+
+## Documentation
+Documentation is located at http://benedmunds.com/ion_auth/
+
+## Upgrading
+See [UPGRADING.md](UPGRADING.md) file.
+
+## Installation
+See [INSTALLING.md](INSTALLING.md) file.
+
+## Usage
+In the package y
+
+### Important
+It is highly recommended 
+
+
+## Support
+If you think you've found a bug please [Create an Issue](https://github.com/greald/ci4-nestedpage/issues).
+
+If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:greaties@ghvernuft.nl).
+
+If your company would like a support contract or service agreement please [Reach Out](mailto:greaties@ghvernuft.nl) to discuss available options.
+
+
+## For Help
+If you're having an issue with CodeIgniter or for general help with development I recommend checking out the [CodeIgniter Forums](http://forum.codeigniter.com).
+
+If you think you've found a bug please [Create an Issue](https://github.com/greald/ci4-nestedpage/issues).
+
+
+Thanks,    
+-Greald Henstra
+-[ghvernuft.nl](https://ghvernuft.nl).
