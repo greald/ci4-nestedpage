@@ -14,9 +14,13 @@ Documentation is located, well, here.
 
 ## Installation
 Copy / paste this package correspondingly into the folder structure in your application or into its third_party folder
+
 In app\Config\Nestle.php ...
+
 in app\Config\Routes.php ...
+
 in app\Language\en\Page.php ...
+
 in app\Views\nest make up your html-blocks at will
 
 ## Usage
