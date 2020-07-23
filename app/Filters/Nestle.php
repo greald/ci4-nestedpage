@@ -28,8 +28,8 @@ class Nestle implements FilterInterface
 					
 		// validate method
 		$CM = array_shift($contentUriArr);
-		if(class_exists($contentContrName) 
-			&& isset($CM)
+		if(isset($CM)
+			&& class_exists($contentContrName) 
 			&& method_exists($contentContrName, $CM)
 		){}
 		else
