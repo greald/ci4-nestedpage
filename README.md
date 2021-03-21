@@ -32,14 +32,13 @@ It is highly recommended
 ## Support
 If you think you've found a bug please [Create an Issue](https://github.com/greald/ci4-nestedpage/issues).
 
-If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:greaties@ghvernuft.nl).
+If you need a customization or help implementing NestedPage into your project please [Email Me for Consulting Information](mailto:greaties@ghvernuft.nl).
 
 If your company would like a support contract or service agreement please [Reach Out](mailto:greaties@ghvernuft.nl) to discuss available options.
 
 
 ## For Help
-If you're having an issue with CodeIgniter or for general help with development I recommend checking out the [CodeIgniter Forums](http://forum.codeigniter.com).
-
+NestedPage is an experimental set up. Please help if you can
 If you think you've found a bug please [Create an Issue](https://github.com/greald/ci4-nestedpage/issues).
 
 
